@@ -32,6 +32,7 @@ TIP:只展示个人主页pinned的内容
 ### 关于我
 - [@website](https://ted-lijunyu.top)
 - [微博](http://weibo.com/tedlijunyu)
+- vx DSKLJT2014
 
 > ***Can you be my friend? ❤️***
 
