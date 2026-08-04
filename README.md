@@ -22,6 +22,8 @@
 
 ### 开源项目
 TIP:只展示个人主页pinned的内容
+
+- [Infinite Minecraft Launcher Core](https://github.com/ted-li-git/Infinite_MC_Launcher_Core) 
 - [一个随手开发的WordPress主题](https://github.com/ted-li-git/wordpress-theme-wex)
 - [24点游戏（Python版）](https://github.com/ted-li-git/24point-game)
 - [检录系统](https://github.com/ted-li-git/registration)
